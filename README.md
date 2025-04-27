@@ -5,7 +5,7 @@
 - 🌱 Currently deep diving into **AWS services** and improving my skills in **Infrastructure as Code (IaC)** using **Terraform** and **CloudFormation**.
 - 💼 I work with **AWS**, **Docker**, **Kubernetes**, **CI/CD** tools, and more to help organizations streamline their development and deployment processes.
 - 🚀 Passionate about **automating workflows**, optimizing cloud environments, and ensuring **scalable, secure** applications.
-- 📫 How to reach me: [patelsandeep88@gmail.com] | [[LinkedIn](https://in.linkedin.com/in/sandeep-kumar-patel-95774b18b)]
+- 📫 How to reach me: [[Email](patelsandeep88@gmail.com)] | [[LinkedIn](https://in.linkedin.com/in/sandeep-kumar-patel-95774b18b)] | [[Medium-Blog](https://patelsandeep88.medium.com/)]
 
 ## 💼 DevOps & AWS Skills
 ### 🌐 **AWS Cloud Services**:
@@ -34,10 +34,11 @@ Here are some key projects I’ve worked on:
 
 
 ## 📝 Blog Posts
-I share my knowledge and experiences on DevOps practices, AWS, and automation:
-- [How to Set Up a CI/CD Pipeline with AWS CodePipeline](Your Blog Link)
-- [Terraform vs. CloudFormation: Choosing the Right IaC Tool](Your Blog Link)
-- [Automating AWS EC2 Provisioning with Terraform](Your Blog Link)
+I share my knowledge and experiences on DevOps practices, AWS,and other automation:
+- [Requesting Wave Off AWS Bill in Free Trial]([Your Blog Link](https://patelsandeep88.medium.com/requesting-wave-off-aws-bill-in-free-trial-3aeb465cb5b7))
+- [How to Create a File on Linux Without Command Line Tools]([Your Blog Link](https://patelsandeep88.medium.com/how-to-create-a-file-on-linux-without-command-line-tools-a7376b1ce3d2))
+- [How To make Interactive Plot Graph For Statistical Data Visualization Using Seaborn Python library](https://medium.com/geekculture/python-seaborn-statistical-data-visualization-in-plot-graph-f149f7a27c6e)
+- [Cheatsheet for Kubernetes-MiniKube & Kubectl](https://medium.com/geekculture/cheatsheet-for-kubernetes-minikube-kubectl-5500ffd2f0d5)
 
 ## 🌍 Let's Connect
 - 💬 Open to discussing DevOps practices, cloud infrastructure, and automation solutions.
