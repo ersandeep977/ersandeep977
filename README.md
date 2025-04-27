@@ -1,4 +1,4 @@
-# Hello! 👋😊 Namaste! 🙏 I'm [Sandeep Kumar Patel] 👋
+# Hello! 👋😊 Namaste! 🙏 I'm Sandeep 👋
 
 ## 👨‍💻 About Me
 - 🎓 I'm a **DevOps Engineer** with experience in **cloud infrastructure**, **CI/CD pipelines**, and **automation**.
