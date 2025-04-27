@@ -30,7 +30,8 @@ Here are some key projects I’ve worked on:
 - **[Project 3: Infrastructure Automation with Terraform](https://github.com/your-username/project-3)** - Created infrastructure as code to provision and manage AWS resources such as EC2, S3, and VPC using **Terraform**.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ersandeep977&show_icons=true&hide_title=true)
+
 
 ## 📝 Blog Posts
 I share my knowledge and experiences on DevOps practices, AWS, and other automation:
