@@ -32,13 +32,13 @@ Here are some key projects I’ve worked on:
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
 
-
 ## 📝 Blog Posts
-I share my knowledge and experiences on DevOps practices, AWS,and other automation:
-- [Requesting Wave Off AWS Bill in Free Trial]([Your Blog Link](https://patelsandeep88.medium.com/requesting-wave-off-aws-bill-in-free-trial-3aeb465cb5b7))
-- [How to Create a File on Linux Without Command Line Tools]([Your Blog Link](https://patelsandeep88.medium.com/how-to-create-a-file-on-linux-without-command-line-tools-a7376b1ce3d2))
-- [How To make Interactive Plot Graph For Statistical Data Visualization Using Seaborn Python library](https://medium.com/geekculture/python-seaborn-statistical-data-visualization-in-plot-graph-f149f7a27c6e)
+I share my knowledge and experiences on DevOps practices, AWS, and other automation:
+- [Requesting Wave Off AWS Bill in Free Trial](https://patelsandeep88.medium.com/requesting-wave-off-aws-bill-in-free-trial-3aeb465cb5b7)
+- [How to Create a File on Linux Without Command Line Tools](https://patelsandeep88.medium.com/how-to-create-a-file-on-linux-without-command-line-tools-a7376b1ce3d2)
+- [How To Make Interactive Plot Graph For Statistical Data Visualization Using Seaborn Python Library](https://medium.com/geekculture/python-seaborn-statistical-data-visualization-in-plot-graph-f149f7a27c6e)
 - [Cheatsheet for Kubernetes-MiniKube & Kubectl](https://medium.com/geekculture/cheatsheet-for-kubernetes-minikube-kubectl-5500ffd2f0d5)
+
 
 ## 🌍 Let's Connect
 - 💬 Open to discussing DevOps practices, cloud infrastructure, and automation solutions.
